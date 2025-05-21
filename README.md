@@ -21,7 +21,7 @@
 
 
 
-### Github Stats 
+## Github Stats 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jxse111&theme=dark)](https://git.io/streak-stats)
 
 ![Jxse111's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jxse111&theme=dark&show_icons=true&hide_border=true&layout=compact)
