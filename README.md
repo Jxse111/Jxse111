@@ -1,6 +1,6 @@
 # Buenas, mi nombre es José
 
-* Soy desarrollador Full Stack (aunque me gusta mucho más el desarrollo en Backend) de [Almeria,Andalucia,España]🇪🇸.
+* Soy desarrollador Full Stack (aunque me gusta mucho más el desarrollo en Backend) de Almeria,Andalucia,España 🇪🇸.
 
 * Visita mi [Linkedin personal](https://www.linkedin.com/in/jos%C3%A9-mart%C3%ADnez-estrada-997b77208/).
   
