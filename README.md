@@ -4,7 +4,16 @@
 
 * Visita mi [Linkedin personal](https://www.linkedin.com/in/jos%C3%A9-mart%C3%ADnez-estrada-997b77208/). 
 
-* Techstack/Tecnologías : '.js', '.php', '.sql', '.css', '.html', '.java' , '.py'.
+ ## 🛠️ Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-.js-yellow?style=for-the-badge&logo=javascript)
+![PHP](https://img.shields.io/badge/-.php-777bb4?style=for-the-badge&logo=php)
+![SQL](https://img.shields.io/badge/-.sql-4479A1?style=for-the-badge&logo=mysql)
+![CSS](https://img.shields.io/badge/-.css-264de4?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/-.html-e34c26?style=for-the-badge&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/-.java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-.py-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 
 
 * Fundador del proyecto [ALGRANO S.L.](https://github.com/Jxse111/ALGRANO_SL_PROCESO_MVC) ☕
