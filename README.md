@@ -6,7 +6,7 @@
   
 * Fundador del proyecto [ALGRANO S.L.](https://github.com/Jxse111/ALGRANO_SL_PROCESO_MVC) ☕
 
- ## 🛠️ Tech Stack/ Tecnologías más usadas
+ ## 🛠️ Tech Stack 
 
 ![JavaScript](https://img.shields.io/badge/-.js-yellow?style=for-the-badge&logo=javascript)
 ![PHP](https://img.shields.io/badge/-.php-777bb4?style=for-the-badge&logo=php)
