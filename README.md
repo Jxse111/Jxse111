@@ -2,7 +2,9 @@
 
 * Soy desarrollador Full Stack (aunque me gusta mucho más el desarrollo en Backend) de [Almeria,Andalucia,España]🇪🇸.
 
-* Visita mi [Linkedin personal](https://www.linkedin.com/in/jos%C3%A9-mart%C3%ADnez-estrada-997b77208/). 
+* Visita mi [Linkedin personal](https://www.linkedin.com/in/jos%C3%A9-mart%C3%ADnez-estrada-997b77208/).
+  
+* * Fundador del proyecto [ALGRANO S.L.](https://github.com/Jxse111/ALGRANO_SL_PROCESO_MVC) ☕
 
  ## 🛠️ Tech Stack
 
@@ -16,7 +18,7 @@
 
 
 
-* Fundador del proyecto [ALGRANO S.L.](https://github.com/Jxse111/ALGRANO_SL_PROCESO_MVC) ☕
+
 
 
 ### Github Stats 
