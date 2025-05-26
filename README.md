@@ -1,4 +1,5 @@
-# Buenas, mi nombre es José
+![Diseño sin título (5)](https://github.com/user-attachments/assets/7fd73b1f-0aa8-4496-aaa3-f9f7b7229ba7)
+#Buenas, mi nombre es José
 
 * Soy desarrollador Full Stack (aunque me gusta mucho más el desarrollo en Backend) de [Almeria,Andalucia,España](https://maps.apple.com/place?auid=10083114876911050888&lsp=9902) 🇪🇸
 
