@@ -1,4 +1,4 @@
-![JXSE (1)](https://github.com/user-attachments/assets/7b088df2-fea0-49f8-a0e3-a3572e2980a3)
+![JXSE (2)](https://github.com/user-attachments/assets/8bcdf765-4258-4618-a5f0-0ab5728f0310)
 
 ## Buenas, mi nombre es José
 
