@@ -1,5 +1,6 @@
 ![JXSE](https://github.com/user-attachments/assets/02c5f0c3-20e4-4ea2-a67f-ce51c175a298)
-##Buenas, mi nombre es José
+
+## Buenas, mi nombre es José
 
 * Soy desarrollador Full Stack (aunque me gusta mucho más el desarrollo en Backend) de [Almeria,Andalucia,España](https://maps.apple.com/place?auid=10083114876911050888&lsp=9902) 🇪🇸
 
