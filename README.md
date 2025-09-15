@@ -6,7 +6,7 @@
 
 * Visita mi [Linkedin personal](https://www.linkedin.com/in/jos%C3%A9-mart%C3%ADnez-estrada-997b77208/)
 
-* Mi [Portfolio Profesional](https://portfolio-profesional-iota.vercel.app/)
+* Mi [portfolio profesional](https://portfolio-profesional-iota.vercel.app/) 💼
   
 * Fundador del proyecto [ALGRANO S.L.](https://github.com/Jxse111/ALGRANO_SL_PROCESO_MVC) ☕
 
